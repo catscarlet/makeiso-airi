@@ -12,11 +12,11 @@
 
 ### BIOS 模式
 
-![makeiso-aria bios screenshot](screenshot_bios.png "makeiso-aria bios screenshot")
+![makeiso-airi bios screenshot](screenshot_bios.png "makeiso-airi bios screenshot")
 
 ### UEFI 模式
 
-![makeiso-aria uefi screenshot](screenshot_uefi.png "makeiso-aria uefi screenshot")
+![makeiso-airi uefi screenshot](screenshot_uefi.png "makeiso-airi uefi screenshot")
 
 ## 依赖
 

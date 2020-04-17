@@ -6,17 +6,17 @@ This is a tool for making CentOS-7.5.1804 ISO for your own purpose.
 
 This only works for CentOS-7.5.1804.
 
+(In this repository, all files, include readme, are derived from [makeiso-kuroko](https://github.com/catscarlet/makeiso-kuroko))
+
 ## Screenshot
 
 ### In BIOS mode
 
-![makeiso-aria screenshot](screenshot_bios.png "makeiso-aria screenshot")
+![makeiso-airi screenshot](screenshot_bios.png "makeiso-airi screenshot")
 
 ### In UEFI mode
 
-![makeiso-aria screenshot](screenshot_uefi.png "makeiso-aria screenshot")
-
-(In this repository, all files, include readme, are derived from [makeiso-kuroko](https://github.com/catscarlet/makeiso-kuroko))
+![makeiso-airi screenshot](screenshot_uefi.png "makeiso-airi screenshot")
 
 ## Requirement
 
