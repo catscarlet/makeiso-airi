@@ -8,6 +8,14 @@ This only works for CentOS-7.5.1804.
 
 ## Screenshot
 
+### In BIOS mode
+
+![makeiso-aria screenshot](screenshot_bios.png "makeiso-aria screenshot")
+
+### In UEFI mode
+
+![makeiso-aria screenshot](screenshot_uefi.png "makeiso-aria screenshot")
+
 (In this repository, all files, include readme, are derived from [makeiso-kuroko](https://github.com/catscarlet/makeiso-kuroko))
 
 ## Requirement
