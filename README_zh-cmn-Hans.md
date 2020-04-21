@@ -1,6 +1,7 @@
 # Makeiso Airi
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](LICENSE)
 
 这是用于制作属于你自己的 CentOS ISO 的工具。
 
